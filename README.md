@@ -25,6 +25,23 @@ We proposed a custom ResNet Architecture and we implemented 3 Networks ResNetSma
 
 ---
 
+### Requirements
+The following python packages are required to run the Jupyter notebooks:
+* torch
+* torchvision
+* torchaudio
+* torch.optim
+* torchsummary
+* numpy
+* matplotlib
+* sklearn
+* tqdm
+
+Install them manually or use add this command in your python notebook:
+`! pip install torch torchvision torchaudio torch.optim torchsummary numpy matplotlib sklearn tqdm`
+
+---
+
 ### System Specification
 
 * NYU Greene HPC Jupyter Environmrnt
